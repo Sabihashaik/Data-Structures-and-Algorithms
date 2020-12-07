@@ -14,3 +14,4 @@ Problems in this repository:
 | Number of Islands                                              | Medium | D3 |
 | Clone Graph                                                    | Medium | D4 |
 | Deepest Leaves Sum                                             | Medium | D4 |
+| Maximum Depth of Binary Tree                                   | Easy   | D5 |
