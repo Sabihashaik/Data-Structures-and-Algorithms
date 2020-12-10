@@ -15,3 +15,4 @@ Problems in this repository:
 | Clone Graph                                                    | Medium | D4 |
 | Deepest Leaves Sum                                             | Medium | D4 |
 | Maximum Depth of Binary Tree                                   | Easy   | D5 |
+| Course Schedule  			                                     | Medium | D7 |
