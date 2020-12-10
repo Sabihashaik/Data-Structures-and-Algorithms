@@ -16,3 +16,4 @@ Problems in this repository:
 | Deepest Leaves Sum                                             | Medium | D4 |
 | Maximum Depth of Binary Tree                                   | Easy   | D5 |
 | Course Schedule  			                                     | Medium | D7 |
+| Missing Number 			                                     | Easy   | D8 |
