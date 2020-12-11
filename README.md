@@ -17,3 +17,6 @@ Problems in this repository:
 | Maximum Depth of Binary Tree                                   | Easy   | D5 |
 | Course Schedule  			                                     | Medium | D7 |
 | Missing Number 			                                     | Easy   | D8 |
+| Single Number 			                                     | Easy   | D8 |
+| Power of Two													 | Easy   | D9 |
+
